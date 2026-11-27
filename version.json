@@ -1,6 +1,12 @@
 {
-  "versionCode": 142,
-  "versionName": "3.90",
-  "apkUrl": "https://github.com/masaali/Rafiki/releases/download/V3.90/Rafeeqi-3.90.apk",
-  "size": "30.1"
+  "versionCode": 145,
+  "versionName": "3.91",
+  "apkUrl": "https://github.com/masaali/Rafiki/releases/download/V3.91/Rafeeqi-3.91.apk",
+  "size": "30.1",
+  "notes": [
+    "شاشة المصحف مش هتطفي وانت بتقرأ",
+    "الصلاة على النبي بتسكت 25 دقيقة بعد الأذان",
+    "الكارت بيعرض «منذ كذا دقيقة» بعد الصلاة",
+    "دوس على أي وقت في الجدول يعرض المتبقي ليه"
+  ]
 }
